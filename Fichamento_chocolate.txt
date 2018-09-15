@@ -1,0 +1,22 @@
+O que é o IIS: Configurando e Instalando um Servidor IIS 8
+   https://www.youtube.com/watch?v=oDFkThQ0S2w
+-----------------------------------------------------
+tecnologias aceitas:
+  ASP.NET, FTP, PHP, WCF
+-----------------------------------------------------
+Vantagens e Recursos
+
+    Maximiza a segurança da Web através de um consumo de servidor reduzido e do isolamento automático de aplicativo.
+    Implanta e executa o ASP.NET, o ASP clássico e os aplicativos Web do PHP no mesmo servidor.
+    Faz o isolamento de aplicativo concedendo aos processos de trabalho, por padrão, uma identidade exclusiva e uma configuração de área restrita, reduzindo ainda mais os riscos de segurança.
+    Adiciona e remove os componentes internos do IIS, e até mesmo os substitui por módulos personalizados, adequados às necessidades do usuário.
+    Agiliza o site através de um cache dinâmico interno e de uma compactação avançada.
+    Usar o Gerenciador do IIS para configurar recursos do IIS e administrar sites.
+    Usar o protocolo FTP para permitir que proprietários de site carreguem e baixam arquivos.
+    Usar o isolamento de site para impedir que um site interfira em outros sites no servidor.
+    Configurar aplicativos Web que são escritos através de várias tecnologias, como ASP clássico, ASP.NET e PHP.
+    Usar o Windows PowerShell para automatizar o gerenciamento da maioria das tarefas de administração do servidor Web.
+    Configurar vários servidores Web em um farm de servidores que podem ser gerenciados usando o IIS.
+    Tirar grande proveito do hardware NUMA e obter desempenho satisfatório do servidor habilitado para NUMA.
+    O diretório base do site padrão é Unidade_Local:\Inetpub\Wwwroot normalmente C:\Inetpub\wwwroot
+--------------------------------------------------------------------------------------------------
